@@ -99,3 +99,24 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.reviews {
+    margin-top: 40px;
+    width: 100%;
+}
+
+.review_item {
+    margin-bottom: 10px;
+}
+
+.review_text {
+    margin: 0px;
+}
+
+.reviews .toggle-review {
+    padding: 5px;
+    position: relative;
+    border: 2px solid;
+    color: #FF5A5F;
+    font-weight: bold;
+}
